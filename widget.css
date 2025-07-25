@@ -1,0 +1,37 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial', sans-serif;
+  background: transparent;
+}
+
+#challengeBox {
+  background: rgba(0, 0, 0, 0.6);
+  padding: 15px 20px;
+  border-radius: 10px;
+  color: #fff;
+  width: 350px;
+}
+
+#challengeBox h3 {
+  margin: 0 0 10px 0;
+  font-size: 22px;
+  color: #ffd700;
+}
+
+#challengeBox ul {
+  list-style: none;
+  padding: 0;
+  margin: 10px 0 0 0;
+}
+
+#challengeBox li {
+  font-size: 16px;
+  margin: 4px 0;
+}
+
+#startTime {
+  font-size: 14px;
+  color: #ccc;
+}
